@@ -1,5 +1,3 @@
-# SQL-Sales-Management-Assignment
-
 # 📊 SQL Sales Management Assignment
 
 ## 🔍 Overview
